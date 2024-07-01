@@ -13,10 +13,7 @@ import org.springframework.stereotype.Service;
 import dev.hyuk.blogging.domain.User;
 import lombok.RequiredArgsConstructor;
 
-import io.jsonwebtoken.Claims;
-import io.jsonwebtoken.Header;
-import io.jsonwebtoken.Jwts;
-import io.jsonwebtoken.SignatureAlgorithm;
+
 
 @RequiredArgsConstructor
 @Service
